@@ -1,5 +1,5 @@
 {
-    "ownerIDS": ["442355791412854784"],
+    "ownerIDS": ["704106773660827690"],
     "default_cooldown_in_sec" : 1.5,
     "antiCrash": true,
     "ping_message": true,
@@ -7,7 +7,7 @@
     "somethingwentwrong_cmd": true,
 
     "messages": {
-        "ping_message": "To see all Commands type: `%{prefix}%help`",
+        "ping_message": "To see all my Commands type: `%{prefix}%help`",
         "cooldown": "❌ Please wait %{timeleft}% more Second(s) before reusing the `%{commandname}%` command.",
         "notallowed_to_exec_cmd": {
             "title": "❌ You are not allowed to run this command!",

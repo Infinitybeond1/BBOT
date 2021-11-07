@@ -1,5 +1,5 @@
 {
-  "token": "DISCORD BOT TOKEN",
+  "token": "ODc1MTQ4OTc2MjcyMzQzMDQx.YRRT_w.rskjXULMgUusXLV40dxM_MJJCJs",
   "prefix": "!",
   "loadSlashsGlobal": false, "_COMMENT_": "Set it to true, when your Slash Commands are ready, false loads instant true loads slow but stable! (GLOBAL/GUILD COMMANDS, DISCORD DOCS!)",
   "slashCommandsDirs": [
@@ -9,9 +9,9 @@
                 "CmdDescription": "Grant specific Information about something!"
         },
         {
-                "Folder": "Admin",
-                "CmdName": "admin",
-                "CmdDescription": "Administrate the Server!"
+                "Folder": "Owner",
+                "CmdName": "owner",
+                "CmdDescription": "Only luke can use these"
         }
    ]
 }
